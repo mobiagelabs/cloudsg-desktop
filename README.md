@@ -1,1 +1,3 @@
-# Esse repositorio é apenas para armazenar as release do PDV Offline.
+# PDV Offline
+
+[Baixar instaladores](https://github.com/mobiagelabs/cloudsg-desktop/releases)
